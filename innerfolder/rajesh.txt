@@ -1,3 +1,5 @@
-h this is edited from nano editor on command line . 
+hi this is edited from nano editor on command line . 
       Thanks&Regards
       Rajesh Rai
+hi this will be changes commited by updation
+
